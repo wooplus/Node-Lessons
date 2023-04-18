@@ -1,0 +1,20 @@
+[
+  { "user": "Dawson", "password": "1234" },
+  { "user": "Mohammed", "password": "1234" },
+  {
+    "user": "chaw",
+    "password": "$2b$10$iM5X7HuK0GuevXQdVSJWB.0wnZhX8NQNYbEC7cDliPnX3LZ/5Ew6K"
+  },
+  {
+    "user": "Alice",
+    "password": "$2b$10$bKWlOAq/96nBaqePptHsP.JmwjE0t7nwaokldCEQ7.nD3OqKlrlgG"
+  },
+  {
+    "username": "joly",
+    "password": "$2b$10$oN1apciSZKY0frqCj7IRauTpTWY5DRyF9W/Hh0JDqLNJSk1RLaaV."
+  },
+  {
+    "username": "molly",
+    "password": "$2b$10$i1S552Wo/yrEuAANCg7nvOzgjZKl2mYYHdaF5IOn8hcjGYXM//TU6"
+  }
+]
